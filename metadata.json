@@ -1,0 +1,5 @@
+{
+  "name": "TRIZ Function Analyzer",
+  "description": "A professional TRIZ software tool that uses Computer Vision and GenAI to generate Function Analysis models, Interaction Matrices, and Function Graphs from system images and component lists.",
+  "requestFramePermissions": []
+}
